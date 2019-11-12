@@ -38,3 +38,8 @@ Logs/
 Playlists/
 Assets/_TerrainAutoUpgrade/
 Assets/Plugins/Android/assets/*sig*
+
+# Oculus App ID Things
+Assets/Resources/OvrAvatarSettings.asset
+Assets/Resources/OculusPlatformSettings.asset
+Assets/Resources/OculusPlatformSettings.asset.meta
